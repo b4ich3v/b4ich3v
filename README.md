@@ -1,9 +1,5 @@
 # 🛠 Yoan Baychev — DevOps, Systems & Code Enthusiast
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PRO-GitHub%20User-6f42c1?style=flat&logo=github&logoColor=white" />
-</p>
-
 ## 🧩 **About me:**  
 - ⚡ Passionate about mastering systems from the hardware up to high-level abstractions
 - ⚙️ Strong background in low-level programming and system-level development  
